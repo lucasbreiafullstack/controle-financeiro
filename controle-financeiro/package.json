@@ -11,6 +11,7 @@
     "react-icons": "^4.8.0",
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.10",
+    "surge": "^0.23.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -40,5 +41,4 @@
   "keywords": [],
   "author": "Lucas de Oliveira Breia",
   "license": "ISC"
-
 }
